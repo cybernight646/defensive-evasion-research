@@ -18,6 +18,8 @@ Submit the original and transformed binaries to a detection platform.
 Compare detection results.
 All testing should be done in an isolated lab environment.
 
+BEFORE DETECTION
+ ![Image Alt](https://github.com/cybernight646/defensive-evasion-research/blob/311d8ee4d569ffe36e4847701825ebcf0121e9d2/binary-transformations/xor-file-encoder/screenshot/Screenshot%20(94).png)
 Limitations
 XOR encoding is trivial and not representative of advanced techniques
 This project focuses on static analysis impact only
