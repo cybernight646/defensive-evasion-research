@@ -19,6 +19,7 @@ Compare detection results.
 All testing should be done in an isolated lab environment.
 
 compile the code >>g++ xor_encrypt.cpp -o xor_encrypt.exe
+
 Use it as such>> xor_encrypt [Filename]
 
 BEFORE DETECTION
