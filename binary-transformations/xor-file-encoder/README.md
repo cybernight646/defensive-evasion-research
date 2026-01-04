@@ -24,3 +24,6 @@ Limitations
 XOR encoding is trivial and not representative of advanced techniques
 This project focuses on static analysis impact only
 It does not bypass behavioral or runtime detection mechanisms
+
+AFTER XOR
+ ![Image Alt](https://github.com/cybernight646/defensive-evasion-research/blob/0b946ed69d949a5ddbca520b176ecab9148d8ce3/binary-transformations/xor-file-encoder/screenshot/Screenshot%20(95).png)
