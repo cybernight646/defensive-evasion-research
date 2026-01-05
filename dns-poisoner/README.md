@@ -23,9 +23,9 @@ This code is intended for **defensive evasion research and security testing**, i
 ## Warning
 
 BEFORE
- ![Image Alt]([https://github.com/cybernight646/defensive-evasion-research/blob/08168fa6285373f5f573e21dd1cc757f9c5ca54a/dns-poisoner/screenshots/Screenshot%20(97).png])
+ ![Image Alt](https://github.com/cybernight646/defensive-evasion-research/blob/08168fa6285373f5f573e21dd1cc757f9c5ca54a/dns-poisoner/screenshots/Screenshot%20(97).png)
  
  AFTER 
-![Image Alt]([https://github.com/cybernight646/defensive-evasion-research/blob/f37ad2ed225b2cfc3fad63f48d85cd12bfaf287d/dns-poisoner/screenshots/Screenshot%20(98).png])
+![Image Alt](https://github.com/cybernight646/defensive-evasion-research/blob/f37ad2ed225b2cfc3fad63f48d85cd12bfaf287d/dns-poisoner/screenshots/Screenshot%20(98).png)
 
 Modifying the hosts file can disrupt normal network behavior. This script should only be executed in controlled environments (e.g., labs, VMs) and for authorized testing purposes.
