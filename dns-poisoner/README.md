@@ -29,3 +29,7 @@ BEFORE
 ![Image Alt](https://github.com/cybernight646/defensive-evasion-research/blob/f37ad2ed225b2cfc3fad63f48d85cd12bfaf287d/dns-poisoner/screenshots/Screenshot%20(98).png)
 
 Modifying the hosts file can disrupt normal network behavior. This script should only be executed in controlled environments (e.g., labs, VMs) and for authorized testing purposes.
+
+TO RUN THE SCRIPT
+You can use your favorite editor sublime,pycharm etc to run it directly from the IDE or you can compile the script and run it .
+Make sure you are running it with admin priviledges.
