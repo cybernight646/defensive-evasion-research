@@ -30,4 +30,4 @@ The code itself is also simple enough to be embedded into more advanced red team
 
 A SIMPLE DEMO OF ME RUNNING IT FROM SUBLIME EDITOR
 NB:ADJUST THE TIME AND TYPE ANTYHING WHILES THE SCRIPT IS RUNING
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/cybernight646/defensive-evasion-research/blob/662fba245ee6878ca8ba071ec315fd028762a76c/keylogger/Screenshot%20(101).png)
