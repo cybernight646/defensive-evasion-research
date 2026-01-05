@@ -27,3 +27,7 @@ From any IDE (VS Code, PyCharm, etc.)
 There’s no special setup required beyond the dependencies. You should only run it on systems you own or have explicit permission to test.
 
 The code itself is also simple enough to be embedded into more advanced red team tooling later, depending on your lab goals. Any extensions beyond local logging should only be explored in authorized environments.
+
+A SIMPLE DEMO OF ME RUNNING IT FROM SUBLIME EDITOR
+NB:ADJUST THE TIME AND TYPE ANTYHING WHILES THE SCRIPT IS RUNING
+ ![Image Alt](image_url)
