@@ -56,7 +56,7 @@ duration = 12  # seconds
 
 
 This value may be modified to suit your testing requirements.
-Also the snippet can be added to a more advance code for red teaming purposes
+Also the snippet can be added to a more advance code for red teaming purposes and improved to exfiltrate the logged keys to a remote server
 
 Ethical and Legal Notice
 
