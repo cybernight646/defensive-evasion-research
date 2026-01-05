@@ -23,5 +23,6 @@ This code is intended for **defensive evasion research and security testing**, i
 ## Warning
 
 BEFORE
+ ![Image Alt](image_url)
 
 Modifying the hosts file can disrupt normal network behavior. This script should only be executed in controlled environments (e.g., labs, VMs) and for authorized testing purposes.
