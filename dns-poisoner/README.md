@@ -23,8 +23,8 @@ This code is intended for **defensive evasion research and security testing**, i
 ## Warning
 
 BEFORE
- ![Image Alt]([image_url](https://github.com/cybernight646/defensive-evasion-research/blob/e7b66274729e4863695ba11df7946c5181ed807d/dns-poisoner/screenshots/Screenshot%20(98).png))
-
+ ![Image Alt][([https://github.com/cybernight646/defensive-evasion-research/blob/08168fa6285373f5f573e21dd1cc757f9c5ca54a/dns-poisoner/screenshots/Screenshot%20(97).png]
+ 
  AFTER 
 ![Image Alt]([image_url]
 
