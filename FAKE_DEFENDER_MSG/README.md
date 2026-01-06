@@ -33,3 +33,5 @@ Limitations
 The script relies on user interaction; it does not enforce any action
 Modern endpoint security solutions may flag or monitor misleading security prompts
 This PoC does not include evasion, persistence, or privilege escalation mechanisms
+You can either compile the code or run it in your IDLE
+![Image ALT](https://github.com/cybernight646/defensive-evasion-research/blob/4313f80d3ac7181465029af15f80b0b6402bc98a/FAKE_DEFENDER_MSG/Screenshot%20(103).png)
