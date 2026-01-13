@@ -1,6 +1,6 @@
 
 
-##Project Overview
+## Project Overview
 This project demonstrates a research proof-of-concept that modifies the behavior of the Windows Event Tracing for Windows (ETW) mechanism within a target process.
 Specifically, the code illustrates how the EtwEventWrite function in ntdll.dll can be patched in memory to alter ETW event generation for a given process. This technique is commonly discussed in malware research and blue-team detection engineering as it highlights how attackers attempt to reduce telemetry visibility, and therefore how defenders can detect and prevent such activity.
 
