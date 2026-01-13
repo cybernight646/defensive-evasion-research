@@ -4,7 +4,7 @@
 This project demonstrates a research proof-of-concept that modifies the behavior of the Windows Event Tracing for Windows (ETW) mechanism within a target process.
 Specifically, the code illustrates how the EtwEventWrite function in ntdll.dll can be patched in memory to alter ETW event generation for a given process. This technique is commonly discussed in malware research and blue-team detection engineering as it highlights how attackers attempt to reduce telemetry visibility, and therefore how defenders can detect and prevent such activity.
 
-##This implementation is intended strictly for educational and defensive research purposes.
+## This implementation is intended strictly for educational and defensive research purposes.
 What This Code Does (High-Level)
 Opens a target process by Process ID (PID)
 Locates EtwEventWrite within ntdll.dll
@@ -16,11 +16,11 @@ Applies architecture-specific patches for:
 32-bit processes
 No persistence mechanisms, payloads, or exploitation logic are included.
 
-##Why ETW Matters
+## Why ETW Matters
 ETW is a core Windows telemetry system used by:
 Security products (EDR, Defender, Sysmon)
 
-##System diagnostics
+## System diagnostics
 Threat detection and behavioral monitoring
 Understanding how ETW can be tampered with helps defenders:
 Identify suspicious memory modification patterns
@@ -30,7 +30,7 @@ Build stronger detection logic around ETW integrity
 This project exists to support defensive awareness, not to bypass security controls in production environments.
 Scope and Limitations
 
-##This project:
+## This project:
 Demonstrates a single in-memory patching technique
 
 Does not include:
@@ -46,7 +46,7 @@ Tampering with ntdll.dll
 ETW suppression attempts
 This code should therefore be viewed as a learning artifact, not a stealth technique.
 
-##Usage (Controlled Lab Environments Only)
+## Usage (Controlled Lab Environments Only)
 This program accepts a target process ID (PID) as input and applies the ETW patch to that process.
 
 It is intended to be used only in isolated lab environments where you own and control the systems involved, such as:
